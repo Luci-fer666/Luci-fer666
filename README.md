@@ -1,10 +1,10 @@
 <h1>Hola!, soy Luciano Illuminati</h1>
 <img align="right" width=300px alt="Pequeña caricatura de mi" src="ayo.png">
 <p>
-Soy estudiante de Tecnicatura en Programacion. Los lenguajes de programación que domino son C#, Javascript, HTML, CSS y PHP, pero tengo especial manejo de Python. Me encanta aprender y construir cosas nuevas, productivas, innovadoras y creativas.  
-Me interesan el diseño web, el desarrollo de sofware y el marketing digital
-- 🌱 Actualmente estoy aprendiendo ...
-  - Bootstrap
+Soy estudiante de Tecnicatura en Programacion. Los lenguajes de programación que domino son C#, Javascript, HTML, CSS y PHP, pero tengo especial manejo de Python. Me encanta aprender y construir cosas nuevas, productivas, innovadoras y creativas.<br>  
+Me interesan el diseño web, el desarrollo de sofware y el marketing digital<br>
+- Actualmente estoy aprendiendo ...<br>
+  - Bootstrap <br>
   - React js  <br>
 - Fuera de la tecnología, me gusta leer comics, mangas y libros, tambien dibujary escuchar música. 
 - 📫 Puedes contactarme en: <a href="luciano.illuminati17@gmail.com">luciano.illuminati17@gmail.com</a>  
