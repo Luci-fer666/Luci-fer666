@@ -59,9 +59,5 @@ Me interesan el diseño web, el desarrollo de sofware y el marketing digital
 [![](https://github-readme-stats.vercel.app/api?username=Luci-fer666&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Luci-fer666)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Luci-fer666&theme=material-palenight)](https://github.com/Luci-fer666)
 
-<h2>Github stats</h2> 
-<div>
-[![](https://github-readme-stats.vercel.app/api?username=Luci-fer666&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Luci-fer666)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Luci-fer666&theme=material-palenight)](https://github.com/Luci-fer666)
-</div>
+
 
