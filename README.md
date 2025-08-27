@@ -1,8 +1,6 @@
-# Hola 👋, soy Luciano Illuminati
+<h1>Hola!, soy Luciano Illuminati</h1>
 
-<img align="right" width=300px alt="Pequeña caricatura de mi" src="ayo.png" />
-
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mí***
+<img align="right" width=300px alt="Pequeña caricatura de mi" src="ayo.png">
 
 Soy estudiante de Tecnicatura en Programacion. Los lenguajes de programación que domino son C#, Javascript, HTML, CSS y PHP, pero tengo especial manejo de Python. Me encanta aprender y construir cosas nuevas, productivas, innovadoras y creativas.  
 * **Me interesan el diseño web, el desarrollo de sofware y el marketing digital**
@@ -17,21 +15,21 @@ __Mira mis repositorios en GitHub:__
 <div>
   <p>
     <a href="https://github.com/Luci-fer666/Raiting-Games.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luci-fer666&repo=Raiting-Games" alt="Estadísticas de GitHub" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luci-fer666&repo=Raiting-Games" alt="Estadísticas de GitHub">
     </a>
-    <a href="https://github.com/Luci-fer666/Calculadora-Formula-Resolvente-Cuadratica-.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luci-fer666&repo=Calculadora-Formula-Resolvente-Cuadratica-" alt="Estadísticas de GitHub" />
+    <a href="https://github.com/Luci-fer666/Formula-Resolvente-Python-TKINTER.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luci-fer666&repo=Formula-Resolvente-Python-TKINTER" alt="Estadísticas de GitHub">
     </a>
   </p>
 </div>
 
 
-<h2>👀 Mis estadísticas en GitHub</h2>
+<h2>Mis estadísticas en GitHub</h2>
 
 <div>
   <p align="center">
   <b><em>Estadísticas de GitHub:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luci-fer666" alt="GitHub Stats" /> <br/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luci-fer666" alt="GitHub Stats"> <br/><br/>
   
 </div>
 
