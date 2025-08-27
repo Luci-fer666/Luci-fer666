@@ -1,6 +1,6 @@
 # Hola 👋, soy Luciano Illuminati
 
-<img align="right" width=300px alt="Unicornio" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img align="right" width=300px alt="Pequeña caricatura de mi" src="ayo.png" />
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mí***
 
