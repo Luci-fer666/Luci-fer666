@@ -3,11 +3,11 @@
 <p>
 Soy estudiante de Tecnicatura en Programacion. Los lenguajes de programación que domino son C#, Javascript, HTML, CSS y PHP, pero tengo especial manejo de Python. Me encanta aprender y construir cosas nuevas, productivas, innovadoras y creativas.<br>  
 Me interesan el diseño web, el desarrollo de sofware y el marketing digital<br>
-- Actualmente estoy aprendiendo ...<br>
-  - Bootstrap <br>
-  - React js  <br>
-- Fuera de la tecnología, me gusta leer comics, mangas y libros, tambien dibujary escuchar música. 
-- 📫 Puedes contactarme en: <a href="luciano.illuminati17@gmail.com">luciano.illuminati17@gmail.com</a>  
+Actualmente estoy aprendiendo ..
+<ul><li>Bootstrap</li>
+<li>React js</li></ul>
+Fuera de la tecnología, me gusta leer comics, mangas y libros, tambien dibujary escuchar música. <br>
+Puedes contactarme en: <a href="luciano.illuminati17@gmail.com">luciano.illuminati17@gmail.com</a>  
 </p>
 
 <h2>Mira mis repositorios en GitHub</h2>
@@ -15,6 +15,9 @@ Me interesan el diseño web, el desarrollo de sofware y el marketing digital<br>
   <p>
     <a href="https://github.com/Luci-fer666/Raiting-Games.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luci-fer666&repo=Raiting-Games" alt="Estadísticas de GitHub">
+    </a>
+    <a href="https://github.com/Luci-fer666/Formula-Resolvente-Python-TKINTER.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luci-fer666&repo=Formula-Resolvente-Python-TKINTER" alt="Estadísticas de GitHub">
     </a>
     <a href="https://github.com/Luci-fer666/Formula-Resolvente-Python-TKINTER.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luci-fer666&repo=Formula-Resolvente-Python-TKINTER" alt="Estadísticas de GitHub">
