@@ -17,7 +17,7 @@ __Mira mis repositorios en GitHub:__
 <div>
   <p>
     <a href="https://github.com/Luci-fer666/Raiting-Games.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luci-fer666&repo=Raiting-Games.git" alt="Estadísticas de GitHub" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luci-fer666&repo=Raiting-Games" alt="Estadísticas de GitHub" />
     </a>
     <a href="https://github.com/Luci-fer666/Calculadora-Formula-Resolvente-Cuadratica-.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luci-fer666&repo=Calculadora-Formula-Resolvente-Cuadratica-" alt="Estadísticas de GitHub" />
