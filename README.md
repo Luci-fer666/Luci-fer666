@@ -54,14 +54,14 @@ Me interesan el diseño web, el desarrollo de sofware y el marketing digital
 <a href="https://www.youtube.com/@luciilluminati46">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
 </a>
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=Luci-fer666&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Luci-fer666)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Luci-fer666&theme=material-palenight)](https://github.com/Luci-fer666)
 
 <h2>Github stats</h2> 
-  <div>
-    [![](https://github-readme-stats.vercel.app/api?username=Luci-fer666&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Luci-fer666)
-    [![](https://github-readme-streak-stats.herokuapp.com/?user=Luci-fer666e&theme=material-palenight)](https://github.com/Luci-fer666)
-  </div>
+<div>
+[![](https://github-readme-stats.vercel.app/api?username=Luci-fer666&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Luci-fer666)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Luci-fer666&theme=material-palenight)](https://github.com/Luci-fer666)
+</div>
 
-
-
-
----------------------------------------------------------------------------------------------------------------------
