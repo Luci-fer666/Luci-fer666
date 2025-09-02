@@ -19,8 +19,8 @@ Puedes contactarme en: <a href="luciano.illuminati17@gmail.com">luciano.illumina
     <a href="https://github.com/Luci-fer666/Formula-Resolvente-Python-TKINTER.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luci-fer666&repo=Formula-Resolvente-Python-TKINTER" alt="Estadísticas de GitHub">
     </a>
-    <a href="https://github.com/Luci-fer666/Formula-Resolvente-Python-TKINTER.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luci-fer666&repo=Formula-Resolvente-Python-TKINTER" alt="Estadísticas de GitHub">
+    <a href="https://github.com/Luci-fer666/Psudo-Galaga-C-Console">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luci-fer666&repo=Psudo-Galaga-C-Console" alt="Estadísticas de GitHub">
     </a>
   </p>
 </div>
