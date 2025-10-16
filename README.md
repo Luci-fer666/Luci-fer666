@@ -1,3 +1,5 @@
+<img align="center" width="100%" heigh="auto" alt="Banner de Luciano" src="LucianoBanner.png">
+
 <h1>Hola!, soy Luciano Illuminati</h1>
 <img align="right" width=300px alt="Pequeña caricatura de mi" src="ayo.png">
 <p>
