@@ -27,8 +27,6 @@ Puedes contactarme en: <a href="luciano.illuminati17@gmail.com">luciano.illumina
   </p>
 </div>
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Luci-fer666&layout=compact)
-
 <h4> Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
