@@ -2,7 +2,7 @@
 
 # Hi, I'm Luciano Illuminati 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-illuminati/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@luciilluminati46)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://mi-portfolio-black.vercel.app)
 
@@ -65,11 +65,11 @@ Most of my projects are personal projects created to learn, experiment and impro
 
 ## 🎮 MediCalm
 
-Short description of what the project does.
+A web application that analyzes uploaded medical test results and provides a clear visual interpretation of each parameter, helping users quickly identify values within or outside normal ranges.
 
 **Technologies:**
-- Technology 1
-- Technology 2
+- ReactJS, ExpressJS
+- N8N, MistralAI, GeminiAi
 
 Repository:
 [GitHub Link](https://github.com/Luci-fer666/MedicalmFRONT)
@@ -78,11 +78,12 @@ Repository:
 
 ## 🧪 ThePololaSite
 
-Short description.
+A custom-built self-management application designed for a specific user. It integrates with Google Drive, allows the organization of notes and documents, and tracks academic progress and personal goals.
 
 **Technologies:**
-- Technology 1
-- Technology 2
+- NextJS, Express JS
+- GoogleAPI, OAuth
+- N8N
 
 Repository:
 [GitHub Link]()
@@ -109,13 +110,14 @@ Repository:
 
 # 📫 Get In Touch
 
-📧 [Email: luciano.illuminati17@gmail.com](https://mi-portfolio-black.vercel.app)
+📧 Email: 
+[luciano.illuminati17@gmail.com](https://mi-portfolio-black.vercel.app)
 
 💼 LinkedIn:
-TU_LINKEDIN
+[https://www.linkedin.com/in/luciano-illuminati/](https://www.linkedin.com/in/luciano-illuminati/)
 
 🌎 Portfolio:
-[TU_PORTFOLIO](https://mi-portfolio-black.vercel.app)
+[https://mi-portfolio-black.vercel.app](https://mi-portfolio-black.vercel.app)
 
 ---
 
