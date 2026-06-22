@@ -1,6 +1,6 @@
 <img align="center" width="100%" alt="Banner de Luciano" src="LucianoBanner.png">
 
-# Hi, I'm Luciano Illuminati 👋
+# Hi, I'm Luciano Illuminati 👋 <img align="right" width=300px alt="Pequeña caricatura de mi" src="ayo.png">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-illuminati/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@luciilluminati46)
