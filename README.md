@@ -1,66 +1,124 @@
-<img align="center" width="100%" heigh="auto" alt="Banner de Luciano" src="LucianoBanner.png">
+<img align="center" width="100%" alt="Banner de Luciano" src="LucianoBanner.png">
 
-<h1>Hola!, soy Luciano Illuminati</h1>
-<img align="right" width=300px alt="Pequeña caricatura de mi" src="ayo.png">
-<p>
-Soy estudiante de Tecnicatura Universitaria en Programación. Los lenguajes de programación que domino son C#, Javascript, HTML, CSS y PHP, pero tengo especial manejo de Python. Me encanta aprender y construir cosas nuevas, productivas, innovadoras y creativas.<br>  
-Me interesan el diseño web, el desarrollo de sofware y el marketing digital<br>
-Actualmente estoy aprendiendo ..
-<ul><li>Bootstrap</li>
-<li>React js</li></ul>
-Fuera de la tecnología, me gusta leer comics, mangas y libros, tambien dibujary escuchar música. <br>
-Puedes contactarme en: <a href="luciano.illuminati17@gmail.com">luciano.illuminati17@gmail.com</a>  
-</p>
+# Hi, I'm Luciano Illuminati 👋
 
-<h2>Mira mis repositorios en GitHub</h2>
-<div>
-  <p>
-    <a href="https://github.com/Luci-fer666/Raiting-Games.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luci-fer666&repo=Raiting-Games" alt="Estadísticas de GitHub">
-    </a>
-    <a href="https://github.com/Luci-fer666/Formula-Resolvente-Python-TKINTER.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luci-fer666&repo=Formula-Resolvente-Python-TKINTER" alt="Estadísticas de GitHub">
-    </a>
-    <a href="https://github.com/Luci-fer666/Psudo-Galaga-C-Console.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luci-fer666&repo=Psudo-Galaga-C-Console" alt="Estadísticas de GitHub">
-    </a>
-  </p>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@luciilluminati46)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://mi-portfolio-black.vercel.app)
 
-<h4> Languages </h4>
-<span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-</span>
+I'm a **Programming student** and **software developer enthusiast** from Argentina.
 
-<h4> Other Tools and Technologies </h4>
-<span>
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
-</span>
+I enjoy creating useful, creative and innovative solutions through technology.  
+My main interests are software development, web technologies, digital design and the intersection between programming and creativity.
 
-<h2>Check out my Social Media</h2>
-<a href= "https://www.instagram.com/illuminati.luci616?igsh=a2psejRqZHV6b2hp">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/luciano-illuminati" >
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitch">
-</a>
-<a href="https://www.youtube.com/@luciilluminati46">
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
-</a>
-<h2>Github stats:</h2> 
+---
 
-[![](https://github-readme-stats.vercel.app/api?username=Luci-fer666&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Luci-fer666)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Luci-fer666&theme=material-palenight)](https://github.com/Luci-fer666)
+# 🚀 About Me
 
+I am currently studying the **University Programming Degree** and continuing my path towards a future degree in Computer Science.
 
+I started programming in a self-taught way, exploring different languages and technologies, and since then I have been constantly learning and building personal projects.
 
+Outside technology, I enjoy:
+- 📚 Reading books, comics and manga
+- 🎨 Drawing and digital art
+- 🎵 Listening to music
+- 🕹️ Collecting and exploring retro hardware
+- 🔧 Repairing and restoring old electronic devices
+
+---
+
+# 🔧 Technical Skills
+
+## 💻 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+---
+
+## 🌐 Web Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+---
+
+## ⚙️ Frameworks & Tools
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+
+---
+
+# ⭐ Featured Projects
+
+Most of my projects are personal projects created to learn, experiment and improve my skills.
+
+## 🎮 MediCalm
+
+Short description of what the project does.
+
+**Technologies:**
+- Technology 1
+- Technology 2
+
+Repository:
+[GitHub Link](https://github.com/Luci-fer666/MedicalmFRONT)
+
+---
+
+## 🧪 ThePololaSite
+
+Short description.
+
+**Technologies:**
+- Technology 1
+- Technology 2
+
+Repository:
+[GitHub Link]()
+
+---
+
+# 🎓 Education
+
+### University Programming Degree
+**Universidad Nacional de Hurlingham**
+
+- Starting year: 2024
+- Expected graduation: 2027
+
+---
+
+# 📊 GitHub Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=Luci-fer666&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Luci-fer666&theme=material-palenight)
+
+---
+
+# 📫 Get In Touch
+
+📧 [Email: luciano.illuminati17@gmail.com](https://mi-portfolio-black.vercel.app)
+
+💼 LinkedIn:
+TU_LINKEDIN
+
+🌎 Portfolio:
+[TU_PORTFOLIO](https://mi-portfolio-black.vercel.app)
+
+---
+
+### Thanks for visiting my profile ⭐
+
+Feel free to check my repositories and follow my journey as a developer.
